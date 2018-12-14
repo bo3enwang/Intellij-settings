@@ -1,0 +1,29 @@
+<application>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="MOVE_INNER_PREVIEW_USAGES" value="false" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="true" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://10.115.246.222/svn/project/" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://10.115.246.222/svn/project/" />
+        <option value="https://10.115.246.222/!/#project" />
+        <option value="https://10.115.246.222" />
+        <option value="https://10.115.246.222/" />
+        <option value="https://wangbowen:wangbowen@10.115.246.222/" />
+        <option value="https://10.115.246.222/svn" />
+        <option value="http://10.115.246.222" />
+        <option value="svn://10.115.246.222/!/%23project" />
+        <option value="https://10.115.246.222/project" />
+        <option value="https://10.115.246.222/projcet" />
+      </list>
+    </option>
+    <option name="mySvnCommandLine" value="C:\Program Files\TortoiseSVN\bin\svn.exe" />
+  </component>
+</application>
